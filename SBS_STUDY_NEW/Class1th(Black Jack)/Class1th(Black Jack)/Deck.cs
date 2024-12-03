@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace Class1th_Black_Jack_
 {
-    internal class Deck
+    public class Deck
     {
         public List<Card> Cards { get; private set; } // 덱에 있는 카드 리스트
 
         private static readonly string[] Ranks = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A" };
-        private static readonly string[] Suits = { "♠", "♣", "♦", "♥" };
-
+        private static readonly string[] Suits = { "♠", "♣","◆", "♥" };
+        private static Random rand = new Random();
         public Deck()
         {
             Cards = new List<Card>();
@@ -33,6 +33,7 @@ namespace Class1th_Black_Jack_
         }
 
         // 덱을 셔플하는 메서드
+        
         public void Shuffle()
         {
             Random rand = new Random();
@@ -50,11 +51,6 @@ namespace Class1th_Black_Jack_
         // 덱에서 한 장의 카드를 뽑는 메서드
         public Card Draw()
         {
-            if (Cards.Count == 0)
-            {
-                throw new InvalidOperationException("덱에 카드가 없습니다.");
-            }
-
             Card drawnCard = Cards[0]; // 덱에서 첫 번째 카드 뽑기
             Cards.RemoveAt(0); // 첫 번째 카드 제거
             return drawnCard; // 뽑은 카드 반환

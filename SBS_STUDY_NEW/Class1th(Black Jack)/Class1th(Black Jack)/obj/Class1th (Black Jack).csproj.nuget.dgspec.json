@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj": {
+    "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj",
         "projectName": "Class1th (Black Jack)",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Class1th (Black Jack).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

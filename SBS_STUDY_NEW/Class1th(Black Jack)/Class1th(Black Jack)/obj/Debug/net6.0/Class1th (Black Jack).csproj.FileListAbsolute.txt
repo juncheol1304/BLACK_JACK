@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\bin\Debug\net6.0\Class1th (Black Jack).exe
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\bin\Debug\net6.0\Class1th (Black Jack).deps.json
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\bin\Debug\net6.0\Class1th (Black Jack).runtimeconfig.json
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\bin\Debug\net6.0\Class1th (Black Jack).dll
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\bin\Debug\net6.0\Class1th (Black Jack).pdb
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).sourcelink.json
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).dll
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\refint\Class1th (Black Jack).dll
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).pdb
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\Class1th (Black Jack).genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BLACK_JACK\SBS_STUDY_NEW\Class1th(Black Jack)\Class1th(Black Jack)\obj\Debug\net6.0\ref\Class1th (Black Jack).dll

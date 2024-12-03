@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Class1th_Black_Jack_
 {
-    internal class Card
+    public class Card
     {
         public string Rank { get; set; } // 카드 숫자
 
@@ -26,16 +26,21 @@ namespace Class1th_Black_Jack_
                 return 0;
             }
         }
-
+        // 카드 문양 숫자 배열
         public Card(string rank, string suit)
         {
             Rank = rank;
             Suit = suit;
         }
-
+        
         public override string ToString()
         {
-            return Rank + "" + Suit;
+            return Rank + " " + Suit;
+        }
+
+        internal static void Add(Card card)
+        {
+            throw new NotImplementedException();
         }
     }
 }

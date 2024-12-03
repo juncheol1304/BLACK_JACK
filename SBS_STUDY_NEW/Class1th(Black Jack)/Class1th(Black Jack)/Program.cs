@@ -26,7 +26,31 @@ namespace Class1th_Black_Jack_
         static void Main(string[] args)
         {
             ShowStart(); // 게임화면 출력(완)
-            Card card;
+            Console.WriteLine("블랙잭 게임을 시작합니다!");
+
+            Console.WriteLine("게임을 시작 하려면 아무키나 누르세요.");
+            string startGame = Console.ReadLine();
+
+            string playerName = "플레이어";
+
+            string dealerName = "딜러";
+
+            Game game = new Game(playerName, dealerName);
+
+            game.StartGame();
+
+            Console.WriteLine("\n게임을 다시 시작 하려면 'y'를 입력 하세요, 종료하려면 'n' 을 입력하세요");
+            string restart = Console.ReadLine();
+
+            if(restart.ToLower() == "y")
+            {
+                Main(args);
+            }
+            else
+            {
+                Console.WriteLine("게임을 종료합니다.");
+            }
+
         }
     }
 }
