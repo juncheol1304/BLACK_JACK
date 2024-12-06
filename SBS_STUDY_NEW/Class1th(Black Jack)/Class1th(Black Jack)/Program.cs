@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Class1th_Black_Jack_
 {
-    internal class Program
+    public class Program
 
     {       
         static void ShowStart() // 게임시작 화면 (완)

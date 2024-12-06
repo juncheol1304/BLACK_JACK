@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|solutionrelative:class1th(black jack)\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|c:\\users\\administrator\\desktop\\black_jack\\sbs_study_new\\class1th(black jack)\\class1th(black jack)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|solutionrelative:class1th(black jack)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|c:\\users\\administrator\\desktop\\black_jack\\sbs_study_new\\class1th(black jack)\\class1th(black jack)\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|solutionrelative:class1th(black jack)\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|c:\\users\\administrator\\desktop\\black_jack\\sbs_study_new\\class1th(black jack)\\class1th(black jack)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|solutionrelative:class1th(black jack)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|c:\\users\\administrator\\desktop\\black_jack\\sbs_study_new\\class1th(black jack)\\class1th(black jack)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FACF3D-2EF2-41CF-ABD5-89318F1C95C4}|Class1th(Black Jack)\\Class1th (Black Jack).csproj|solutionrelative:class1th(black jack)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -96,20 +96,20 @@
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Game.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Game.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Game.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAiwDYAAAANAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:32:46.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Dealer.cs",
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Dealer.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Dealer.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Dealer.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwB4AAAANAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:10:21.388Z",
               "EditorCaption": ""
@@ -122,33 +122,33 @@
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Player.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Player.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Player.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowA0AAAAHAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwvycAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:39:37.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Deck.cs",
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Deck.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Deck.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Deck.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAswCMAAAAIAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAA7wAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:31:25.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Card.cs",
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Card.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Card.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:30:52.964Z",
               "EditorCaption": ""
@@ -161,7 +161,7 @@
               "RelativeDocumentMoniker": "Class1th(Black Jack)\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BLACK_JACK\\SBS_STUDY_NEW\\Class1th(Black Jack)\\Class1th(Black Jack)\\Program.cs",
               "RelativeToolTip": "Class1th(Black Jack)\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwCUAAAA5AAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T05:17:22.671Z",
               "EditorCaption": ""

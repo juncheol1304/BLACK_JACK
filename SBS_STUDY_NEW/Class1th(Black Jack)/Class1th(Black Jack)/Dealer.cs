@@ -12,8 +12,12 @@ namespace Class1th_Black_Jack_
         {
 
         }
-        // 클래스들이 Internal로 되있어서 전부 에러뜸
-        // Public 을 쓰면 되는걸 까먹고 있었음.
+        
+        public bool ShouldDrawCard()
+        {
+            // 딜러의 점수가 16 미만이면 카드를 받는다
+            return CalculateScore() < 17;
+        }
 
         public void DealerTurn(Deck deck)
         {
@@ -32,5 +36,6 @@ namespace Class1th_Black_Jack_
                 Console.WriteLine("딜러가 21을 초과하여 패배");
             }
         }
+
     }
 }
